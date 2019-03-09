@@ -1,7 +1,6 @@
 import sys
 prob1_7 = __import__('problem_1-7')
 from collections import Counter
-from tools import read_input_line_wise
 
 
 # prob 12

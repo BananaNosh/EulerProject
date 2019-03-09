@@ -1,0 +1,3 @@
+[submodule "nia"]
+	path = nia
+	url = git@github.com:Illiou/nature-inspired-algorithms-2018.git
